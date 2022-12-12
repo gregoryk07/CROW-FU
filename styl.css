@@ -2,9 +2,14 @@ body {
     background-color: lightslategray;
 }
 .header{
-    position:fixed;
+    position: fixed;
+    background-color: aqua;
+    text-align: left;
     left: 0px;
     right: 0px;
     top: 0px;
-    background-color: aqua;
+    padding-left: 100px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 100px;
 }
