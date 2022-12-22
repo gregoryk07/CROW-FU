@@ -56,7 +56,7 @@ a{
 .expo{
     font-size: x-large;
     position: relative;
-    left: 10px;
+    left: 1%;
     width: 20%;
     text-align: center;
     top: 25%;
@@ -72,8 +72,8 @@ a{
     position: relative;
     border: none;
     border-radius: 100px;
-    left: 210px;
-    width: 57%;
+    left: 25%;
+    width: 545px;
     top: 0px;
     position: relative;
     display: inline-block;
@@ -126,7 +126,7 @@ article{
     position: absolute;
     top: 90px;
     padding-top: 5%;
-    width: 100%;
+    right: 0px;
     left: 0px;
     padding-bottom: 5%;
     padding-left: 25px;
