@@ -2,7 +2,7 @@ let originTitle = document.title;
 
 function oldTitle() {
     document.title = originTitle;
-    console.log('User has come back to this window');
+    console.log('User has came back to this window');
 }
 
 function newTitle() {
